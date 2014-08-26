@@ -1,4 +1,0 @@
-RedTea
-======
-
-software development

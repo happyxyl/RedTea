@@ -12,9 +12,9 @@ snow();
 // hello
 
 // it is same as below code
-function snow(){
-	var x;
-    console.log( x );
-    var x = "hello";
-    console.log(x);
-}
+// function snow(){
+//     var x;
+//     console.log( x );
+//     var x = "hello";
+//     console.log(x);
+// }

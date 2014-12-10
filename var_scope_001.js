@@ -7,3 +7,4 @@ function snow_fly(){
 	inner();
 }
 snow_fly();
+snow_fly2();//check in on 2014/12/10
